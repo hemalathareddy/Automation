@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="287" started-at="2018-09-18T06:42:38Z" finished-at="2018-09-18T06:42:39Z">
+    <groups>
+    </groups>
+    <test name="day001" duration-ms="127" started-at="2018-09-18T06:42:38Z" finished-at="2018-09-18T06:42:39Z">
+      <class name="Test.Day1">
+        <test-method status="PASS" signature="logout()[pri:0, instance:Test.Day1@2344fc66]" name="logout" duration-ms="36" started-at="2018-09-18T12:12:39Z" finished-at="2018-09-18T12:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Test.Day1 -->
+    </test> <!-- day001 -->
+    <test name="day002" duration-ms="20" started-at="2018-09-18T06:42:39Z" finished-at="2018-09-18T06:42:39Z">
+      <class name="Test.Day2">
+        <test-method status="PASS" signature="logout()[pri:0, instance:Test.Day2@6d00a15d]" name="logout" duration-ms="8" started-at="2018-09-18T12:12:39Z" finished-at="2018-09-18T12:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Test.Day2 -->
+    </test> <!-- day002 -->
+  </suite> <!-- Suite -->
+</testng-results>
